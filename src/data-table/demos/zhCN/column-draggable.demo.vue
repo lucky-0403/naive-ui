@@ -24,7 +24,8 @@ function createColumns({
     {
       title: 'No',
       key: 'no',
-      width: 50
+      width: 50,
+      resizable: true
     },
     {
       title: 'Title',
